@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "28abf3f9-2ad9-4fbb-beaa-ba5d5488da6c",
+    "name": "Julia Kassulke",
+    "phone": "1-338-339-8080",
+    "email": "Sandy.Adams@yahoo.com",
+    "job": "Regional Creative Representative"
+  },
+  {
+    "id": "30b39288-d980-40af-88e5-9252a840fdf6",
+    "name": "Kara Kreiger",
+    "phone": "1-494-255-8063",
+    "email": "Roger_Haag@gmail.com",
+    "job": "Regional Data Designer"
+  },
+  {
+    "id": "1bb9890c-045e-43c4-862c-272fbeb361e5",
+    "name": "Lorraine Bahringer",
+    "phone": "206-447-8941 x136",
+    "email": "Audreanne.Kuhlman72@hotmail.com",
+    "job": "Product Infrastructure Designer"
+  },
+  {
+    "id": "50e2ff50-52b5-4970-b36c-ca47c34d6d1d",
+    "name": "Jean Runte",
+    "phone": "421.404.7010 x578",
+    "email": "Beaulah.Schmeler@gmail.com",
+    "job": "National Web Coordinator"
+  }
+]
